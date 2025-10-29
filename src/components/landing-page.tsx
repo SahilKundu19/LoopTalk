@@ -251,7 +251,7 @@ export function LandingPage({ onEnterChat }: LandingPageProps) {
             >
               <div className="relative">
                 <ImageWithFallback
-                  src="/assets/5a625a6e5b08f77c4213cf793b64d5a0cfaecd1c.png"
+                  src="assets/5a625a6e5b08f77c4213cf793b64d5a0cfaecd1c.png"
                   alt="Customer service representative"
                   className="rounded-3xl w-full max-w-lg mx-auto"
                 />
