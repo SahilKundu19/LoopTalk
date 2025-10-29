@@ -49,7 +49,7 @@ export default function DemoVideoModal2() {
                 {/* 🎞 Video */}
                 <video
                   ref={videoRef}
-                  src="src/assets/Video_Generation_With_D_Chats.mp4" // ✅ ensure it's in /public
+                  src="/assets/Video_Generation_With_D_Chats.mp4" // ✅ ensure it's in /public
                   controls
                   autoPlay
                   className="w-full h-full object-cover"

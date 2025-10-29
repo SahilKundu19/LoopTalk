@@ -51,7 +51,7 @@ export default function DemoVideoModal() {
                 {/* 🎞 Video */}
                 <video
                   ref={videoRef}
-                  src="src/assets/Chat_Video_With_Mobile_View.mp4" // ✅ ensure it's in /public
+                  src="/assets/Chat_Video_With_Mobile_View.mp4" // ✅ ensure it's in /public
                   controls
                   autoPlay
                   className="w-full h-full object-cover"
